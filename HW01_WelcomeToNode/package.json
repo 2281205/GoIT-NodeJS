@@ -1,0 +1,29 @@
+{
+  "name": "hw01_welcometonode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2281205/GoIT-NodeJS.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "nodemon"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2281205/GoIT-NodeJS/issues"
+  },
+  "homepage": "https://github.com/2281205/GoIT-NodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
