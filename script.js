@@ -9,3 +9,5 @@ argArr.forEach((item, index)=>{
     console.log(`arg value:${item}`)
     console.log(`****`)
 })
+
+console.log(`_____`);
